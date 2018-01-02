@@ -1,7 +1,7 @@
-id=template
-name=Template Module
-version=v1
-versionCode=1
-author=topjohnwu
-description=A short description
+id=a1tweaks
+name=Mi A1 Tweaks
+version=v1.1
+versionCode=20180102
+author=NicoNewbie
+description=Enables Camera2API and EIS. Disables noise cancellation. Fix Google Assistant voice output.
 minMagisk=1500
