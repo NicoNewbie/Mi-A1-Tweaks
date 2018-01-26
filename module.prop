@@ -1,7 +1,7 @@
-id=a1tweaks
-name=Mi A1 Tweaks
-version=v1.1
-versionCode=20180102
+id=MiA1CameraTweaks
+name=Mi A1 Camera Tweaks
+version=v1.2
+versionCode=20180126
 author=NicoNewbie
-description=Enables Camera2API and EIS. Disables noise cancellation. Fix Google Assistant voice output.
+description=Enables Camera2API and EIS.
 minMagisk=1500

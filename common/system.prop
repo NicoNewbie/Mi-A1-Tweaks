@@ -1,5 +1,3 @@
-# Enables EIS and Camera2API Disables Noise Cancellation Fixes Google Assistant Voice Output
+# Enables EIS and Camera2API
 persist.camera.eis.enable=1
 persist.camera.HAL3.enabled=1
-ro.qc.sdk.audio.fluencetype=fluencepro
-mm.enable.qcom_parser=3183219
